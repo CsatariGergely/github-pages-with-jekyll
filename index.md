@@ -1,3 +1,10 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Here is some content. 
+
+* Some bulet
+* lists
+
+# Here is an other header
+## And an other, just different
+Some content goes here. 
